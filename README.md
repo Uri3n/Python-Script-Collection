@@ -1,8 +1,7 @@
-# Network-Tooling
-## Rudimentary Custom Network Tooling.
+# Python Script Collection
 
 This is a small collection of Python scripts I've written that can perform some basic
-network-related tasks. As I inevitably use Python more, I'll be updating this repository with
+(mostly network-related) tasks. As I inevitably use Python more, I'll be updating this repository with
 more scripts. As of right now though, there are just a few things here. Including:
 
 1. **sniffpackets.py**: Requires administrative privileges. Intercepts packets on the
